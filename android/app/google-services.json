@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658150650752",
+    "project_id": "tune-your-mind-45af9",
+    "storage_bucket": "tune-your-mind-45af9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658150650752:android:a4ba5dffc72db8a28c8765",
+        "android_client_info": {
+          "package_name": "com.riopy.tuneyourmindtym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658150650752-mgsdtrn2cvodb67ptgrqagvp2snh1tkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClC_8u2S-mfkd49ihB4MS2gub4BfR2YqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658150650752-mgsdtrn2cvodb67ptgrqagvp2snh1tkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
